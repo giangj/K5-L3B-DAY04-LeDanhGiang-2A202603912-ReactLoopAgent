@@ -1,6 +1,6 @@
 # Ghi chú phân tích · Day 04
 
-Họ và tên: LÊ DANH GIANG
+Họ và tên: LÊ DANH GIANG 
 MSSV: 2A202603912
 
 ## 1. Case được chọn
